@@ -1,5 +1,5 @@
 # 🌐 Mi Camino a Network Engineer
-¡Hola! Soy [Tu Nombre]. Este es mi porfolio de aprendizaje donde documento mi laboratorio físico y los conceptos de redes que voy dominando.
+¡Hola! Soy Kent. Este es mi porfolio de aprendizaje donde documento mi laboratorio físico y los conceptos de redes que voy dominando.
 
 ## 🚀 Mi Laboratorio Actual
 - **Router:** MikroTik L009
